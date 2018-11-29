@@ -22,8 +22,7 @@
     }),
     components: {
       AudioRateComponent,
-      AudioVolumeComponent,
-      FooterComponent
+      AudioVolumeComponent
     }
   }
 </script>
