@@ -1,24 +1,24 @@
 @font-face {
-  font-family: Fira Sans;
-  src: url('~styles/fonts/FiraSans-Light.eot') format('eot'),
-       url('~styles/fonts/FiraSans-Light.woff') format('woff'),
-       url('~styles/fonts/FiraSans-Light.woff2') format('woff2');
+  font-family: Rubik;
+  src: url('~styles/fonts/rubik-light-webfont.eot') format('eot'),
+       url('~styles/fonts/rubik-light-webfont.woff') format('woff'),
+       url('~styles/fonts/rubik-light-webfont.woff2') format('woff2');
   font-weight: 300;
 }
 
 @font-face {
-  font-family: Fira Sans;
-  src: url('~styles/fonts/FiraSans-Regular.eot') format('eot'),
-       url('~styles/fonts/FiraSans-Regular.woff') format('woff'),
-       url('~styles/fonts/FiraSans-Regular.woff2') format('woff2');
+  font-family: Rubik;
+  src: url('~styles/fonts/rubik-regular-webfont.eot') format('eot'),
+       url('~styles/fonts/rubik-regular-webfont.woff') format('woff'),
+       url('~styles/fonts/rubik-regular-webfont.woff2') format('woff2');
   font-weight: 500;
 }
 
 @font-face {
-  font-family: Fira Sans;
-  src: url('~styles/fonts/FiraSans-Bold.eot') format('eot'),
-       url('~styles/fonts/FiraSans-Bold.woff') format('woff'),
-       url('~styles/fonts/FiraSans-Bold.woff2') format('woff2');
+  font-family: Rubik;
+  src: url('~styles/fonts/rubik-bold-webfont.eot') format('eot'),
+       url('~styles/fonts/rubik-bold-webfont.woff') format('woff'),
+       url('~styles/fonts/rubik-bold-webfont.woff2') format('woff2');
   font-weight: 700;
 }
 
@@ -31,7 +31,7 @@
 }
 
 @mixin font() {
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
 @mixin font-monospace() {
